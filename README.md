@@ -1,4 +1,4 @@
-# mhra_pharmacovigilence
+# mhra_pharmacovigilance
 
-This project aims to create a database of all adverse drug reports submitted to the MHRA Yellow Card Pharmacovigielence scheme. 
+This project aims to create a database of all adverse drug reports submitted to the MHRA Yellow Card Pharmacovigilance scheme. 
 Webscraping done in April 2021 using selenium. 
